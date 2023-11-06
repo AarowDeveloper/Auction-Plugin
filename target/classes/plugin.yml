@@ -1,0 +1,8 @@
+name: Auction
+version: BETA-1.0
+main: dev.aarow.auction.AuctionPlugin
+author: Aarow_
+api-version: 1.16
+commands:
+  auction:
+    aliases: [ah]
